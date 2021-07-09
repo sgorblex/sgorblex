@@ -2,10 +2,11 @@
 
 #### I'm currently working on
 - my CS studies :books:
-- [unimi-dl](https://github.com/SimpoLab/unimi-dl) :arrow_down:
 - [dotfiles](https://github.com/sgorblex/dotfiles) and ricing :rice:
 
-#### Check out my repos :)
+#### Recent projects
+- [unimi-dl](https://github.com/SimpoLab/unimi-dl) :arrow_down:
+- [plc-test](https://github.com/sgorblex-unimi/plc-test) :computer:
 
 #### Also check out my organizations
 - [SimpoLab](https://github.com/SimpoLab) :wine_glass:
