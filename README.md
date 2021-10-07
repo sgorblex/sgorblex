@@ -1,6 +1,7 @@
 ### Hi there :D
 
 #### I'm currently working on
+- [GitKiss](https://github.com/sgorblex/GitKiss) :floppy_disk:
 - my CS studies :books:
 - [dotfiles](https://github.com/sgorblex/dotfiles) and ricing :rice:
 
