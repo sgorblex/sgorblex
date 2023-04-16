@@ -3,6 +3,7 @@
 #### I'm currently working on
 - my master's CS studies :books:
 - [unimi-dl](https://github.com/SimpoLab/unimi-dl) :arrow_down:
+- [MarkovGenBot](https://github.com/sgorblex/MarkovGenBot) :speech_balloon:
 - [dotfiles](https://github.com/sgorblex/dotfiles) and ricing :rice:
 
 #### Recent projects
