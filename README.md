@@ -7,6 +7,7 @@
 - [dotfiles](https://github.com/sgorblex/dotfiles) and ricing :rice:
 
 #### Recent projects
+- [capsesc-keymap](https://github.com/sgorblex/capsesc-keymap) :keyboard:
 - [GitKiss](https://github.com/sgorblex/GitKiss) :kiss:
 
 #### Recent university stuff
