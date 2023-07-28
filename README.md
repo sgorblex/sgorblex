@@ -12,7 +12,7 @@
 - [probametodi-dim](https://github.com/sgorblex-unimi/probametodi-dim) :game_die:
 - [algocomp](https://github.com/sgorblex-unimi/algocomp) :hourglass:
 - [automi_1-limited](https://github.com/sgorblex-unimi/automi_1-limited) :mortar_board:
-- [debian-mips](https://github.com/nbasilico/debian-mips.md) :computer:
+- [debian-mips](https://github.com/nbasilico/debian-mips) :computer:
 
 #### Check out my organizations
 - [SimpoLab](https://github.com/SimpoLab) :wine_glass:
