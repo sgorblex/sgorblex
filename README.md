@@ -4,7 +4,8 @@
 - my master's CS studies :books:
 - [dotfiles](https://github.com/sgorblex/dotfiles) and ricing :rice:
 
-#### I'd like to go back to
+#### Recent projects
+- [birthdays_I_care_about](https://github.com/sgorblex/birthdays_I_care_about) :calendar:
 - [unimi-dl](https://github.com/SimpoLab/unimi-dl) :arrow_down:
 - [MarkovGenBot](https://github.com/sgorblex/MarkovGenBot) :speech_balloon:
 
