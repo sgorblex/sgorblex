@@ -1,26 +1,27 @@
 ### Hi there :D
 
 #### I'm currently working on
-- my master's CS studies :books:
-- [dotfiles](https://github.com/sgorblex/dotfiles) and ricing :rice:
+- [my website](https://aclerici.me) 👱🏻‍♂️
+- my master's CS studies 📚
+- [dotfiles](https://github.com/sgorblex/dotfiles) and ricing 🍚
 
 #### Recent projects
-- [birthdays_I_care_about](https://github.com/sgorblex/birthdays_I_care_about) :calendar:
-- [unimi-dl](https://github.com/SimpoLab/unimi-dl) :arrow_down:
-- [MarkovGenBot](https://github.com/sgorblex/MarkovGenBot) :speech_balloon:
+- [birthdays_I_care_about](https://github.com/sgorblex/birthdays_I_care_about) 📆
+- [unimi-dl](https://github.com/SimpoLab/unimi-dl) ⬇️
+- [MarkovGenBot](https://github.com/sgorblex/MarkovGenBot) 💬
 
 #### Recent university stuff
-- [probametodi-dim](https://github.com/sgorblex-unimi/probametodi-dim) :game_die:
-- [algocomp](https://github.com/sgorblex-unimi/algocomp) :hourglass:
-- [automi_1-limited](https://github.com/sgorblex-unimi/automi_1-limited) :mortar_board:
-- [debian-mips](https://github.com/nbasilico/debian-mips) :computer:
+- [algocomp](https://github.com/sgorblex-unimi/algocomp) ⌛
+- [probametodi-dim](https://github.com/sgorblex-unimi/probametodi-dim) 🎲
+- [automi_1-limited](https://github.com/sgorblex-unimi/automi_1-limited) 🎓
+- [debian-mips](https://github.com/nbasilico/debian-mips) 💻
 
 #### Check out my organizations
-- [SimpoLab](https://github.com/SimpoLab) :wine_glass:
-- [sgorblex-unimi](https://github.com/sgorblex-unimi) :mortar_board:
-- [poggeroni](https://github.com/poggeroni) :frog:
+- [SimpoLab](https://github.com/SimpoLab) 🍷
+- [sgorblex-unimi](https://github.com/sgorblex-unimi) 🎓
+- [poggeroni](https://github.com/poggeroni) 🐸
 
 #### Honorable mentions
-- [statistica-e-analisi-dei-dati](https://github.com/sgorblex-unimi/statistica-e-analisi-dei-dati.md) :bar_chart:
-- [plc-test](https://github.com/sgorblex-unimi/plc-test) :computer:
-- [Mars-GameOfLife](https://github.com/sgorblex/Mars-GameOfLife.md) :video_game:
+- [statistica-e-analisi-dei-dati](https://github.com/sgorblex-unimi/statistica-e-analisi-dei-dati.md) 📊
+- [plc-test](https://github.com/sgorblex-unimi/plc-test) 💻
+- [Mars-GameOfLife](https://github.com/sgorblex/Mars-GameOfLife.md) 🎮
