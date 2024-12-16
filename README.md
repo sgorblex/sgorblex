@@ -1,24 +1,21 @@
 ### Hi there :D
 
-#### I'm currently working on
+#### Recent stuff
+- I just graduated with my Master's Degree in Computer Science! 🎓
 - [my website](https://aclerici.me) 👱🏻‍♂️
-- my master's CS studies 📚
 - [dotfiles](https://github.com/sgorblex/dotfiles) and ricing 🍚
-
-#### Recent projects
-- [birthdays_I_care_about](https://github.com/sgorblex/birthdays_I_care_about) 📆
 - [unimi-dl](https://github.com/SimpoLab/unimi-dl) ⬇️
 - [MarkovGenBot](https://github.com/sgorblex/MarkovGenBot) 💬
 
 #### Recent university stuff
+- [computational-models-and-complexity-questions](https://github.com/sgorblex-unimi/computational-models-and-complexity-questions) 🎓
 - [algocomp](https://github.com/sgorblex-unimi/algocomp) ⌛
 - [probametodi-dim](https://github.com/sgorblex-unimi/probametodi-dim) 🎲
-- [automi_1-limited](https://github.com/sgorblex-unimi/automi_1-limited) 🎓
 - [debian-mips](https://github.com/nbasilico/debian-mips) 💻
 
 #### Check out my organizations
 - [SimpoLab](https://github.com/SimpoLab) 🍷
-- [sgorblex-unimi](https://github.com/sgorblex-unimi) 🎓
+- [sgorblex-unimi](https://github.com/sgorblex-unimi) 📚
 - [poggeroni](https://github.com/poggeroni) 🐸
 
 #### Honorable mentions
