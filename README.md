@@ -1,11 +1,10 @@
 ### Hi there :D
 
 #### Recent stuff
-- I just graduated with my Master's Degree in Computer Science! 🎓
+- I am now working for [Technology Reply](https://www.reply.com/technology-reply/) building multi-agent systems 🤖
 - [my website](https://aclerici.me) 👱🏻‍♂️
-- [dotfiles](https://github.com/sgorblex/dotfiles) and ricing 🍚
-- [unimi-dl](https://github.com/SimpoLab/unimi-dl) ⬇️
-- [MarkovGenBot](https://github.com/sgorblex/MarkovGenBot) 💬
+- [dotfiles](https://github.com/sgorblex/dotfiles) and ricing (fresh Neovim config is out 😋) 🍚
+- [imap-thingy](https://github.com/sgorblex/imap-thingy): an IMAP scripting and filtering library 📩
 
 #### Recent university stuff
 - [computational-models-and-complexity-questions](https://github.com/sgorblex-unimi/computational-models-and-complexity-questions) 🎓
@@ -19,6 +18,6 @@
 - [poggeroni](https://github.com/poggeroni) 🐸
 
 #### Honorable mentions
-- [statistica-e-analisi-dei-dati](https://github.com/sgorblex-unimi/statistica-e-analisi-dei-dati.md) 📊
+- [MarkovGenBot](https://github.com/sgorblex/MarkovGenBot) 💬
 - [plc-test](https://github.com/sgorblex-unimi/plc-test) 💻
 - [Mars-GameOfLife](https://github.com/sgorblex/Mars-GameOfLife.md) 🎮
